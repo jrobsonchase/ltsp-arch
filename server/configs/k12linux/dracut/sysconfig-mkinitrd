@@ -1,3 +1,4 @@
+# OBSOLETE: Fedora 12+ and RHEL6 use dracut instead of mkinitrd
 # /etc/sysconfig/mkinitrd configuration directs mkinitrd to generate a netboot capable image
 # initrd obtains from netboot the IP address and rootfs type 
 unset MODESETTING
